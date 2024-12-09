@@ -16,6 +16,7 @@
     "@ton/crypto": "^3.3.0",
     "@ton/ton": "^15.1.0",
     "@tonconnect/ui-react": "^2.0.9",
+    "@twa-dev/sdk": "^8.0.1",
     "@types/babel__generator": "^7.6.8",
     "@types/babel__template": "^7.4.4",
     "@types/babel__traverse": "^7.20.6",
